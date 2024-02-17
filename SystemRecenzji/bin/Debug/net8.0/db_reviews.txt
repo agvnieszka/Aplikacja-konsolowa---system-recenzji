@@ -1,0 +1,5 @@
+1,1,1,6,ok
+3,0,0,2,ładny nie powiem taki 2/10
+4,0,2,4,niestety nie było w nim smoków jestem zmuszony dać takie 4/10
+5,0,1,10,zmieniłem swoją recenzję teraz jest 10/10
+6,0,19,3,fajn też
